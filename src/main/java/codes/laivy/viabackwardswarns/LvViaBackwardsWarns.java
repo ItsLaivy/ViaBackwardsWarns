@@ -26,7 +26,7 @@ public class LvViaBackwardsWarns extends JavaPlugin {
         }
 
         if (
-                !getConfig().contains("version") ||
+                !getConfig().contains("check-updates") ||
                 !getConfig().contains("aviso de versão recomendada") ||
                 !getConfig().contains("mensagem de versão recomendada") ||
                 !getConfig().contains("aviso de versão correta") ||

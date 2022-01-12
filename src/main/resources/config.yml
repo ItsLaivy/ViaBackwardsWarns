@@ -2,6 +2,7 @@
 #               Author: DanielZinh#7616
 #    https://github.com/LaivyTLife/ViaBackwardsWarns
 # -------------------------=-=------------------------- #
+check-updates: true
 
 aviso de versão recomendada: true
 mensagem de versão recomendada: "&cVocê está na versão &4%player_version&c, recomendamos que jogue na versão &6%server_version+ &cpara uma melhor experiência!"
