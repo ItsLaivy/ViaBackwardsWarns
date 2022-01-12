@@ -1,0 +1,11 @@
+name: LvViaBackwardsWarns
+version: 1.0
+main: codes.laivy.viabackwardswarns.LvViaBackwardsWarns
+author: DanielZinh#7616
+description: "Mensagens extras para o ViaBackwards"
+api-version: 1.18
+
+website: "https://github.com/LaivyTLife/ViaBackwardsWarns"
+
+softdepend:
+  - ViaBackwards

@@ -1,0 +1,17 @@
+# -------------------------=-=------------------------- #
+#               Author: DanielZinh#7616
+#    https://github.com/LaivyTLife/ViaBackwardsWarns
+# -------------------------=-=------------------------- #
+
+aviso de versão recomendada: true
+mensagem de versão recomendada: "&cVocê está na versão &4%player_version&c, recomendamos que jogue na versão &6%server_version+ &cpara uma melhor experiência!"
+
+aviso de versão correta: true
+mensagem de versão correta: "&aVocê está jogando no servidor usando a versão mais atualizada possível."
+
+# -------------------------=-=------------------------- #
+#                    for 1.17+ servers
+# -------------------------=-=------------------------- #
+
+aviso de blocos acima da 256: true
+mensagem de blocos acima da 256: "&cVocê precisa estar na versão 1.17 ou superior para colocar blocos acima da camada 256"
